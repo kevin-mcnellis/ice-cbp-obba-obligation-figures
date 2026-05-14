@@ -1,0 +1,11 @@
+{
+  "title": "CBP: Calendar Year 2025 Obligations by Funding Source and Object Class",
+  "axis_labels": {
+    "x": "",
+    "y": ""
+  },
+  "footer_text": "Notes: Calendar-year 2025 obligations are derived from cumulative quarter-end File B snapshots: Mar. 31, 2025 minus Dec. 31, 2024; Jun. 30 minus Mar. 31; Sep. 30 minus Jun. 30; plus Dec. 31, 2025.\n\"Personnel expenses\" groups pay and benefit categories. \"All Other Activities\" groups smaller categories omitted from the chart. Source: USAspending.gov File B.",
+  "panel_order": [
+    "CBP"
+  ]
+}

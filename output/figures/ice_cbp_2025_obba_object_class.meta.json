@@ -1,0 +1,12 @@
+{
+  "title": "How CBP and ICE Obligated OBBA Funds in Calendar Year 2025",
+  "axis_labels": {
+    "x": "Calendar-Year 2025 OBBA obligations",
+    "y": ""
+  },
+  "footer_text": "Notes: Only categories with at least $100 million in calendar-year 2025 OBBA obligations are shown; smaller categories are omitted.\nCalendar-year 2025 totals are derived from cumulative quarter-end File B snapshots by differencing Mar. 31, Jun. 30, and Sep. 30 against the\nprior quarter and then adding Dec. 31, 2025. Source: USAspending.gov File B.",
+  "panel_order": [
+    "CBP",
+    "ICE"
+  ]
+}
